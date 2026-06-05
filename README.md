@@ -25,11 +25,7 @@ The STP Design Calculator is developed to simplify the design process of wastewa
 
 - Activated Sludge Process (ASP)
 - Moving Bed Biofilm Reactor (MBBR)
-- Sequencing Batch Reactor (SBR)
-- Membrane Bioreactor (MBR)
-- Upflow Anaerobic Sludge Blanket Reactor (UASB)
-- Tube Settler Systems
-- Water Softening Systems
+
 
 ## Project Structure
 
