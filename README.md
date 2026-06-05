@@ -37,49 +37,6 @@ stp-design-calculator/
 
 ├── README.md
 
-├── requirements.txt
-
-├── src/
-
-│   ├── equalization_tank.py
-
-│   ├── aeration_tank.py
-
-│   ├── clarifier.py
-
-│   ├── tube_settler.py
-
-│   ├── mbbr.py
-
-│   ├── uasb.py
-
-│   ├── blower_sizing.py
-
-│   └── sludge_calculator.py
-
-├── examples/
-
-│   ├── 25_KLD_STP.xlsx
-
-│   ├── 100_KLD_STP.xlsx
-
-│   └── 500_KLD_STP.xlsx
-
-├── docs/
-
-│   ├── design_basis.pdf
-
-│   ├── process_flow_diagrams.pdf
-
-│   └── formulas.pdf
-
-└── images/
-
-    ├── stp_process_flow.png
-
-    ├── uasb_reactor.png
-
-    └── tube_settler.png
 
 ## Sample Inputs
 
@@ -105,10 +62,7 @@ stp-design-calculator/
 
 ## Technologies Used
 
-- Python
-- NumPy
-- Pandas
-- Engineering Design Calculations
+- Excell
 
 ## Future Improvements
 
